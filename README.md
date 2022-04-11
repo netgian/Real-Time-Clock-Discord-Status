@@ -4,6 +4,10 @@ You must provide your Discord Token.
 ```python
 token = 'Put your token here'
 ```
+Install the requests module
+```yaml
+pip install requests
+```
 
 If you want to run the script every time your computer starts:
 - Press `win + r`
