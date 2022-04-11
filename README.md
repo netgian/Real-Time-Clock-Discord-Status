@@ -1,4 +1,4 @@
-# Real-Time-Clock-Discord-Status
+# Real Time Clock Discord Status
 
 You must provide your Discord Token.
 ```python
