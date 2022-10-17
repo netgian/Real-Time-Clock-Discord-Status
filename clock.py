@@ -2,9 +2,10 @@ import requests
 import time
 
 
+
+TOKEN = 'Put your token here'
 url = 'https://discord.com/api/users/@me/settings'
-token = 'NzM4MDUyMDYwMDA3NjI4ODM0.YlNqXA.bASgCAcqYkHaLSwWyrvfFp2MsfQ'
-headers = {'authorization': token, 'Content-Type': 'application/json'}
+headers = {'authorization': TOKEN, 'Content-Type': 'application/json'}
 clocks = '🕛🕧🕐🕜🕑🕝🕒🕞🕓🕟🕔🕠🕕🕡🕖🕢🕗🕣🕘🕤🕙🕥🕚🕦'
 
 
